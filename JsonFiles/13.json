@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1. 李子維",
+        "text": "李子維",
+        "data": "test9"
+      },
+      {
+        "type": "postback",
+        "label": "2. 莫俊傑",
+        "text": "莫俊傑",
+        "data": "test10"
+      },
+      {
+        "type": "postback",
+        "label": "3. 黃天仁",
+        "text": "黃天仁",
+        "data": "test10"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/ph7anTg.jpg",
+    "title": "想見你第一題",
+    "text": "請問女主角喜歡的是?"
+  }
+}
+]

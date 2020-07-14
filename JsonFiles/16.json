@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1.87次",
+        "text": "1",
+        "data": "test16"
+      },
+      {
+        "type": "postback",
+        "label": "2.11次",
+        "text": "11",
+        "data": "test15"
+      },
+      {
+        "type": "postback",
+        "label": "3.2500次",
+        "text": "111",
+        "data": "test16"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/R3tAykV.jpg",
+    "title": "戀愛可以持續到天長地久第二題",
+    "text": "男女主角兩人共吻了幾次?"
+  }
+}
+]

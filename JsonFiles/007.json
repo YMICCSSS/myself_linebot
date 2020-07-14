@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1.因為體內基因突變",
+        "text": "1.因為體內基因突變",
+        "data": "test2"
+      },
+      {
+        "type": "postback",
+        "label": "2.因為濫用生死草",
+        "text": "2.因為濫用生死草",
+        "data": "test1"
+      },
+      {
+        "type": "postback",
+        "label": "3.因為被森林裡的怪物咬到",
+        "text": "3.因為被森林裡的怪物咬到",
+        "data": "test2"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/4v5DOIX.jpg",
+    "title": "李屍朝鮮第一題",
+    "text": "請問李屍朝鮮中為何有僵屍?"
+  }
+}
+]

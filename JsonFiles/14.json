@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1. 想",
+        "text": "想",
+        "data": "test11"
+      },
+      {
+        "type": "postback",
+        "label": "2. 還好",
+        "text": "還好",
+        "data": "test12"
+      },
+      {
+        "type": "postback",
+        "label": "3. 恩亨?",
+        "text": "恩亨?",
+        "data": "test12"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/ph7anTg.jpg",
+    "title": "想見你第二題",
+    "text": "你想我嗎?"
+  }
+}
+]

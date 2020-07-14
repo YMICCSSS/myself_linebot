@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1.帥",
+        "text": "帥",
+        "data": "test14"
+      },
+      {
+        "type": "postback",
+        "label": "2.超帥",
+        "text": "超帥",
+        "data": "test14"
+      },
+      {
+        "type": "postback",
+        "label": "3.超級帥",
+        "text": "超級帥",
+        "data": "test13"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/kcVDLKf.jpg",
+    "title": "戀愛可以持續到天長地久第一題",
+    "text": "佐藤建帥嗎?"
+  }
+}
+]

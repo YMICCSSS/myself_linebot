@@ -1,0 +1,84 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "title": "李屍朝鮮第一季",
+        "text": "共兩題",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "第一題",
+            "text": "第一題",
+            "data": "a1"
+          },
+          {
+            "type": "postback",
+            "label": "第二題",
+            "text": "第二題",
+            "data": "a2"
+          }
+        ]
+      },
+      {
+        "title": "愛的迫降",
+        "text": "共兩題",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "第一題",
+            "text": "第一題",
+            "data": "a3"
+          },
+          {
+            "type": "postback",
+            "label": "第二題",
+            "text": "第二題",
+            "data": "a4"
+          }
+        ]
+      },
+      {
+        "title": "想見你",
+        "text": "共兩題",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "第一題",
+            "text": "第一題",
+            "data": "a5"
+          },
+          {
+            "type": "postback",
+            "label": "第二題",
+            "text": "第二題",
+            "data": "a6"
+          }
+        ]
+      },
+      {
+        "title": "戀愛可以持續到天長地久",
+        "text": "共兩題",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "第一題",
+            "text": "第一題",
+            "data": "a7"
+          },
+          {
+            "type": "postback",
+            "label": "第二題",
+            "text": "第二題",
+            "data": "a8"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

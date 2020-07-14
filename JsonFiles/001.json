@@ -1,0 +1,80 @@
+[
+{
+  "type": "template",
+  "altText": "this is a carousel template",
+  "template": {
+    "type": "carousel",
+    "actions": [],
+    "columns": [
+      {
+        "thumbnailImageUrl": "https://imgur.com/JemSoT0.jpg",
+        "title": "李屍朝鮮",
+        "text": "Netflx推薦必看前5名",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "課程心得",
+            "uri": "https://movies.yahoo.com.tw/movieinfo_review.html/id=9300"
+          },
+          {
+            "type": "uri",
+            "label": "開始上課",
+            "uri": "https://www.youtube.com/watch?v=juyfn-IAiSs"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/jUaw8qd.jpg",
+        "title": "梨泰院Class",
+        "text": "近期觀看人數第一，熱血爽劇",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "課程心得",
+            "uri": "https://www.hk01.com/即時娛樂/441119/梨泰院class劇評-爽-反社會人格女主喪摑仇家15巴-成功定調全劇"
+          },
+          {
+            "type": "uri",
+            "label": "開始上課",
+            "uri": "https://www.youtube.com/watch?v=PxFI5-Idi5Q"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/0EtGMyV.jpg",
+        "title": "想見你",
+        "text": "你不該錯過的優質台劇",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "課程心得",
+            "uri": "https://news.agentm.tw/92945/台劇-想見你-爆紅-魅力-解析/"
+          },
+          {
+            "type": "uri",
+            "label": "開始上課",
+            "uri": "https://www.youtube.com/watch?v=3vlhbwROiAo"
+          }
+        ]
+      },
+      {
+        "thumbnailImageUrl": "https://imgur.com/iYCAIXp.jpg",
+        "title": "戀愛可以持續到天長地久",
+        "text": "文字",
+        "actions": [
+          {
+            "type": "uri",
+            "label": "課程心得",
+            "uri": "https://www.hk01.com/即時娛樂/450595/佐藤健接棒玄彬做男神-拆解-戀愛可以持續到天長地久-爆紅原因"
+          },
+          {
+            "type": "uri",
+            "label": "開始上課",
+            "uri": "https://www.youtube.com/watch?v=K3aAi01jt6Q"
+          }
+        ]
+      }
+    ]
+  }
+}
+]

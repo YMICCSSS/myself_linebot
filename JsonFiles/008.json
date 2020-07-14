@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1.武英",
+        "text": "武英",
+        "data": "test3"
+      },
+      {
+        "type": "postback",
+        "label": "2.武德",
+        "text": "武德",
+        "data": "test4"
+      },
+      {
+        "type": "postback",
+        "label": "3.武倘",
+        "text": "武倘",
+        "data": "test4"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/4v5DOIX.jpg",
+    "title": "李屍朝鮮第二題",
+    "text": "請問男主角的隨扈叫什麼名子?"
+  }
+}
+]

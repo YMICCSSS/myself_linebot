@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1. 不知道",
+        "text": "不知道",
+        "data": "test6"
+      },
+      {
+        "type": "postback",
+        "label": "2. 尹世利",
+        "text": "尹世利",
+        "data": "test6"
+      },
+      {
+        "type": "postback",
+        "label": "3. 孫藝珍",
+        "text": "孫藝珍",
+        "data": "test5"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/HyrlDoj.jpg",
+    "title": "愛的迫降第一題",
+    "text": "請問愛的迫降中女主角本名是?"
+  }
+}
+]

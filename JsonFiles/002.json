@@ -1,0 +1,104 @@
+[
+{
+  "type": "flex",
+  "altText": "創辦人簡介",
+  "contents": {
+    "type": "bubble",
+    "header": {
+      "type": "box",
+      "layout": "horizontal",
+      "contents": [
+        {
+          "type": "text",
+          "text": "創辦人簡歷",
+          "size": "sm",
+          "weight": "bold",
+          "color": "#AAAAAA"
+        }
+      ]
+    },
+    "hero": {
+      "type": "image",
+      "url": "https://imgur.com/IKo6zoE.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "label": "Action",
+        "uri": "https://linecorp.com/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "horizontal",
+      "spacing": "md",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 2,
+          "contents": [
+            {
+              "type": "text",
+              "text": "嘉義大學-行銷與觀光管理學系",
+              "flex": 1,
+              "size": "xs",
+              "gravity": "top"
+            },
+            {
+              "type": "separator",
+              "margin": "sm",
+              "color": "#C85C5C"
+            },
+            {
+              "type": "text",
+              "text": "獎金獵人-專案管理助理 ( 2017/06~2018/06)",
+              "flex": 2,
+              "size": "xs",
+              "gravity": "center"
+            },
+            {
+              "type": "separator",
+              "margin": "sm",
+              "color": "#C85C5C"
+            },
+            {
+              "type": "text",
+              "text": "金融科技、都市設計、創業競賽等得獎經驗",
+              "flex": 1,
+              "size": "xs",
+              "gravity": "bottom",
+              "weight": "regular",
+              "color": "#0D0C0C"
+            },
+            {
+              "type": "text",
+              "text": "請參閱以下Cake-REsume完整版履歷",
+              "size": "xs"
+            },
+            {
+              "type": "separator",
+              "color": "#C85C5C"
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "horizontal",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "uri",
+            "label": "Cake-Resume 完整版",
+            "uri": "https://drive.google.com/file/d/14vb9v7tq8w1QnfAOSiNP3x2N4-VGvhwu/view?usp=sharing"
+          }
+        }
+      ]
+    }
+  }
+}
+]

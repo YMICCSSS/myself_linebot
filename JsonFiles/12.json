@@ -1,0 +1,32 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "1. 番茄愛好者",
+        "text": "番茄愛好者",
+        "data": "test8"
+      },
+      {
+        "type": "postback",
+        "label": "2. 番茄種植者",
+        "text": "番茄種植者",
+        "data": "test7"
+      },
+      {
+        "type": "postback",
+        "label": "3. 熱血的努力",
+        "text": "熱血的努力",
+        "data": "test8"
+      }
+    ],
+    "thumbnailImageUrl": "https://imgur.com/t4u2FvM.jpg",
+    "title": "愛的迫降第二題",
+    "text": "請問男主角在裡面游戲的暱稱是?"
+  }
+}
+]
